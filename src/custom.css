@@ -1,0 +1,12 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.c-text-gray-gradient {
+    @apply bg-clip-text text-transparent;
+    background-image: linear-gradient(to bottom, #ffffff, #B0B6BF);
+}
+
+.c-min-h-screen {
+    @apply min-h-[600px];
+}
