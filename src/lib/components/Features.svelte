@@ -8,7 +8,7 @@
 
 <div
 	id="features"
-	class="c-min-h-screen flex h-screen flex-col items-center justify-center gap-8 overflow-hidden"
+	class="c-min-h-screen flex h-screen flex-col items-center justify-center gap-8 overflow-hidden px-4"
 >
 	<h1
 		bind:this={title}
@@ -25,7 +25,7 @@
 	</div>
 </div>
 <div
-	class="c-min-h-screen flex h-screen flex-col items-center justify-center gap-8 overflow-hidden"
+	class="c-min-h-screen flex h-screen flex-col items-center justify-center gap-8 overflow-hidden px-4"
 >
 	<h1 class="text-center text-xl font-black sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl">
 		Inter-cluster networking
@@ -38,7 +38,7 @@
 	</div>
 </div>
 <div
-	class="c-min-h-screen flex h-screen flex-col items-center justify-center gap-8 overflow-hidden"
+	class="c-min-h-screen flex h-screen flex-col items-center justify-center gap-8 overflow-hidden px-4"
 >
 	<h1
 		bind:this={title}
